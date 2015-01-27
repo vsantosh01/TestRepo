@@ -7,5 +7,8 @@ Basic of SourceTree
 line 1
 Line 2
 
-PC 1 change
-     2nd change
+PC 2 Change 1
+
+
+
+PC 2 change 2
