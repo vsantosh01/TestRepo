@@ -3,5 +3,6 @@ Test for Repository
 
 
 Basic of SourceTree
-Branch 1
-2nd Change
+
+line 1
+Line 2
