@@ -1,2 +1,4 @@
 After Step 1
 	1 item waiting for PUSH
+After step 2
+	checking what happend after we commit and try to reverse
