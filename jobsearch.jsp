@@ -143,4 +143,7 @@
 		    }
 		</script>
 	</c:otherwise>
+<!--Test-->
+<!--Test BR-01-->
+
 </c:choose>
