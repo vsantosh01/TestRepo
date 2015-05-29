@@ -5,5 +5,11 @@ After step 2
 Added for T3
 Added for T3-2
 
+<<<<<<< HEAD
 
 Test2 merge to master
+=======
+Created test Branch
+
+Merge test to master
+>>>>>>> master
