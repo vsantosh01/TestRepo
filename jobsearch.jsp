@@ -19,7 +19,7 @@
 	          <label class="screen" for="company">Company</label>
 	          <select id="company" class="target radio" name="company">
 	            <c:if test="${not empty properties.edisonInternationalText}"><option value="edison">${properties.edisonInternationalText}</option></c:if>
-	            <c:if test="${not empty properties.sceText}"><option value="sce" selected="selected">${properties.sceText}</option></c:if> 
+	            <c:if test="${not empty properties.sceText}"><option value="sce" selected="selected">${properties.sceText}</option></c:if>
 	          </select>
 	        </div>
 	        <div class="search-info">
