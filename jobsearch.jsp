@@ -1,9 +1,12 @@
 <%@include file="/apps/edisonweb/components/shared/global.jsp"%>
 <c:choose>
+<<<<<<< HEAD
 < Arun Vyas Test 1 >
 
 <Arun Vyas Test 2>
 
+=======
+>>>>>>> parent of 62c5115... Test 1
 	<c:when test="${empty properties.header and empty properties.edisonInternationalText and empty properties.sceText and empty properties.searchButtonText}">
 		<c:if test="${author }">
 			Please author Job Search component.
