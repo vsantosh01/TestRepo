@@ -2,6 +2,8 @@
 <c:choose>
 < Arun Vyas Test 1 >
 
+<Arun Vyas Test 2>
+
 	<c:when test="${empty properties.header and empty properties.edisonInternationalText and empty properties.sceText and empty properties.searchButtonText}">
 		<c:if test="${author }">
 			Please author Job Search component.
