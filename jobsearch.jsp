@@ -1,5 +1,7 @@
 <%@include file="/apps/edisonweb/components/shared/global.jsp"%>
 <c:choose>
+< Arun Vyas Test 1 >
+
 	<c:when test="${empty properties.header and empty properties.edisonInternationalText and empty properties.sceText and empty properties.searchButtonText}">
 		<c:if test="${author }">
 			Please author Job Search component.
